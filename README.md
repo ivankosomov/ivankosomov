@@ -12,3 +12,9 @@ Instagram da pek çok sayfaya sahiplik ediyorum. 2012 yılından beri sosyal med
 Rusya Murmansk'da doğup kısa süre içerisinde Türkiye'ye geldim. 
 
 Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldum.
+
+
+# YAVER
+Astpod
+
+Devily

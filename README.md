@@ -1,7 +1,7 @@
 # Ivan Kosomov
 **Hox INC. 2014**
 
-Selam ben Ivan Nam-ı diğer FK.
+Selam ben Ivan Nam-ı diğer FK. \n
 Site, oyun geliştirmek üzere kendimi geliştiriyorum. 
 Ayrıca fotoğraf düzenleme, video düzenleme ile de 4 seneden fazla bir süredir ilgileniyorum.
 Instagram da pek çok sayfaya sahiplik ediyorum. 2012 yılından beri sosyal medya ilgileniyorum.

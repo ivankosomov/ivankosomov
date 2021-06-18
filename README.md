@@ -15,6 +15,5 @@ Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldu
 
 
 # YAVER
-Astpod
-
+Astpod 
 Devily

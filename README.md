@@ -18,3 +18,6 @@ Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldu
 Astpod 
 
 Devily
+
+# İletişim
+benfk@yandex.com

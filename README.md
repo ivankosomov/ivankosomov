@@ -31,3 +31,5 @@ Devily
 
 # İletişim
 benfk@yandex.com
+ 
+ <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=ffd700" alt="ivankosomov" />

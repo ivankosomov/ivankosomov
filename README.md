@@ -1,4 +1,5 @@
 <h1 align="center">FK (Ivan)</h1>
+ <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=ffd700" alt="ivankosomov" />
 
 <p align="center">
  <a href="https://discord.com/users/402030453609201664" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -25,5 +26,3 @@ Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldu
 
 # İletişim
 benfk@yandex.com
- 
- <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=ffd700" alt="ivankosomov" />

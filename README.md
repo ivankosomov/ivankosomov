@@ -1,5 +1,4 @@
 <h1 align="center">FK (Ivan)</h1>
- <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=ffd700" alt="ivankosomov" />
 
 <p align="center">
  <a href="https://discord.com/users/402030453609201664" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -7,7 +6,7 @@
  <a href="https://www.instagram.com/hox.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ![FK github stats](https://github-readme-stats.vercel.app/api?username=ivankosomov&show_icons=true&hide_title=true&theme=radical&text_color=FF0022)
-
+ <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=ffd700" alt="ivankosomov" />
   
 # Ivan Kosomov ✔
 **Hox INC. 2014**

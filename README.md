@@ -6,6 +6,7 @@
  <a href="https://www.instagram.com/hox.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ![FK github stats](https://github-readme-stats.vercel.app/api?username=ivankosomov&show_icons=true&hide_title=true&theme=radical&text_color=FF0022)
+ \n
  <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=ffd700" alt="ivankosomov" />
   
 # Ivan Kosomov ✔

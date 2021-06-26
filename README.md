@@ -7,7 +7,7 @@
 
 ![FK github stats](https://github-readme-stats.vercel.app/api?username=ivankosomov&show_icons=true&hide_title=true&theme=radical&text_color=FF0022)
 
- <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=ffd700" alt="ivankosomov" />
+ <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=800000" alt="ivankosomov" />
   
 # Ivan Kosomov ✔
 **Hox INC. 2014**

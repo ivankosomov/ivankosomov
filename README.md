@@ -26,3 +26,4 @@ Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldu
 
 # İletişim
 benfk@yandex.com
+<img src="https://img.shields.io/github/followers/ivankosomov?style=social" alt="ivan" />

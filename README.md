@@ -9,7 +9,7 @@
 
  <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=b20000" alt="ivankosomov" />
  
- <a href="https://twitter.com/ivannapiyosun" target"blank?"><img src="https://img.shields.io/twitter/follow/ivannapiyosun?style=social" alt="ivan" />
+ <a href="https://twitter.com/ivannapiyosun" target"blank?"><img src="https://img.shields.io/twitter/follow/ivannapiyosun?style=social" alt="ivan"> </a>
  
 # Ivan Kosomov ✔
 **Hox INC. 2014**

@@ -30,3 +30,4 @@ benfk@yandex.com
  # Twitter
  
 <img src="https://img.shields.io/twitter/follow/ivannapiyosun?style=social" alt="ivan">
+<img src="https://img.shields.io/badge/Twitter%20-191717.svg?&style=for-the-badge&logo=twitter&logoColor=white">

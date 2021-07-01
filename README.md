@@ -26,4 +26,3 @@ Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldu
 
 # İletişim
 benfk@yandex.com
-https://img.shields.io/apm/l/gang?color=red&label=License&logo=HOX&logoColor=white&style=for-the-badge

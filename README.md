@@ -2,8 +2,7 @@
 
 <p align="center">
  <a href="https://discord.com/users/402030453609201664" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
- <a href="https://www.github.com/ivankosomov" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.twitter.com/ivannapiyosun" target"blank_"><img src="https://img.shields.io/badge/TWITTER%20-009186.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+ <a href="https://www.twitter.com/ivannapiyosun" target"blank_"><img src="https://img.shields.io/badge/TWITTER%20-191717.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
  <a href="https://www.instagram.com/hox.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ![FK github stats](https://github-readme-stats.vercel.app/api?username=ivankosomov&show_icons=true&hide_title=true&theme=radical&text_color=FF0022)

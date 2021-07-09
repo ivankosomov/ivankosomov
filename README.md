@@ -18,7 +18,9 @@ Site, oyun geliştirmek üzere kendimi geliştiriyorum.
 Ayrıca fotoğraf düzenleme, video düzenleme ile de 4 seneden fazla bir süredir ilgileniyorum.
 
 Instagram da pek çok sayfaya sahiplik ediyorum. 2012 yılından beri sosyal medya ile ilgileniyorum.
-
+ 
+Yukarıda bahsettiklerim dışında
+ 
 Rusya Murmansk'da doğup kısa süre içerisinde Türkiye'ye geldim. 
 
 Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldum.

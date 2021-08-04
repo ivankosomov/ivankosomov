@@ -5,11 +5,6 @@
 
 ![FK github stats](https://github-readme-stats.vercel.app/api?username=ivankosomov&show_icons=true&hide_title=true&theme=radical&text_color=FF0022)
  
- <div align="center">
-    <a href="https://discord.com/users/402030453609201664" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/402030453609201664"></a>
-</div>
-
- 
  <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=b20000" alt="ivankosomov" />
  
 # Ivan Kosomov ✔
@@ -31,3 +26,7 @@ Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldu
 
 # İletişim
 benfk@yandex.com
+
+<div align="center">
+    <a href="https://discord.com/users/402030453609201664" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/402030453609201664"></a>
+</div>

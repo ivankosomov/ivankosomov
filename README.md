@@ -4,6 +4,7 @@
  <a href="https://www.twitter.com/ivannapiyosun" target"blank_"><img src="https://img.shields.io/badge/TWITTER%20-191717.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ![FK github stats](https://github-readme-stats.vercel.app/api?username=ivankosomov&show_icons=true&hide_title=true&theme=radical&text_color=FF0022)
+ 
  <img src="https://komarev.com/ghpvc/?username=ivankosomov&label=Total%20Visitor&color=b20000" alt="ivankosomov" />
  
 # Ivan Kosomov ✔

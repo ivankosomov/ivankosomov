@@ -27,6 +27,6 @@ Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldu
 # İletişim
 benfk@yandex.com
 
-<div align="center">
+<div align="left">
     <a href="https://discord.com/users/402030453609201664" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/402030453609201664"></a>
 </div>

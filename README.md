@@ -22,7 +22,7 @@ Yukarıda bahsettiklerim dışında
  
 Rusya Murmansk'da doğup kısa süre içerisinde Türkiye'ye geldim. 
 
-Rusya'da doğmuş olmama rağmen rusça konuşmayı çok az bilirim. Memnun oldum.
+Rusya'da doğmuş olmama rağmen Rusça konuşmayı çok az bilirim. Memnun oldum.
 
 # İletişim
 benfk@yandex.com
